@@ -16,8 +16,8 @@ BOT_TOKEN = os.getenv('BOT_TOKEN') or '8091678858:AAE4uGruO2eeCtQedN6BAIhn-Q-RaY
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Instagram credentials for instaloader (recommended for Pydroid 3)
-INSTAGRAM_USERNAME = os.getenv('INSTAGRAM_USERNAME') or 'your_instagram_username'
-INSTAGRAM_PASSWORD = os.getenv('INSTAGRAM_PASSWORD') or 'your_instagram_password'
+INSTAGRAM_USERNAME = os.getenv('INSTAGRAM_USERNAME') or 'lmaoinstauser'
+INSTAGRAM_PASSWORD = os.getenv('INSTAGRAM_PASSWORD') or 'syedxrehan'
 
 # Flask app for keep-alive (optional for Pydroid 3, but kept for compatibility)
 app = Flask('')
