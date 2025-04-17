@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.15.0
+instaloader==4.10
+flask==3.0.3
+python-dotenv==1.0.1
